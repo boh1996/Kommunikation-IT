@@ -801,6 +801,10 @@ body {
 #goals * {
   z-index: 2;
 }
+.goal-modal {
+  width: 100%;
+  padding-right: 0px !important;
+}
 .goal-modal .goal-listing {
   margin-left: 5%;
   margin-bottom: 30px;

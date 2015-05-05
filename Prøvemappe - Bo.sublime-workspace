@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
 				"sort",
 				"sort_direction"
 			],
@@ -216,10 +236,6 @@
 				"instrument"
 			],
 			[
-				"pad",
-				"padding-bottom"
-			],
-			[
 				"per",
 				"person_city"
 			],
@@ -250,10 +266,6 @@
 			[
 				"cons",
 				"console"
-			],
-			[
-				"marg",
-				"margin-top"
 			],
 			[
 				"back",
@@ -294,10 +306,6 @@
 			[
 				"min-",
 				"min-width"
-			],
-			[
-				"max-",
-				"max-height"
 			],
 			[
 				"remove",
@@ -444,10 +452,6 @@
 				"user_image"
 			],
 			[
-				"max",
-				"max-width"
-			],
-			[
 				"margi",
 				"margin"
 			],
@@ -510,15 +514,19 @@
 			[
 				"mes",
 				"message"
-			],
-			[
-				"for",
-				"foreach	foreach …"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23585,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -605,10 +613,18 @@
 	},
 	"expanded_folders":
 	[
-		"/R/Kommunikation-IT"
+		"/R/Kommunikation-IT",
+		"/R/Kommunikation-IT/js",
+		"/R/Kommunikation-IT/less"
 	],
 	"file_history":
 	[
+		"/R/Kommunikation-IT/less/agency.less",
+		"/R/Kommunikation-IT/less/variables.less",
+		"/R/Kommunikation-IT/font-awesome/less/icons.less",
+		"/R/Kommunikation-IT/font-awesome/less/path.less",
+		"/R/Kommunikation-IT/font-awesome/less/font-awesome.less",
+		"/R/Kommunikation-IT/font-awesome/less/core.less",
 		"/R/FindMusikundervisning.dk/application/views/forgot_password_view.php",
 		"/R/FindMusikundervisning.dk/assets/js/forgot.js",
 		"/R/FindMusikundervisning.dk/application/controllers/Forgot.php",
@@ -730,17 +746,11 @@
 		"/R/FindMusikundervisning.dk/prototype/bootstrap/docs/_data/sass-team.yml",
 		"/R/FindMusikundervisning.dk/prototype/messages.html",
 		"/R/FindMusikundervisning.dk/application/config/profiler.php",
-		"/R/FindMusikundervisning.dk/prototype/profile.html",
-		"/R/FindMusikundervisning.dk/assets/js/profile.js",
-		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/npm-shrinkwrap/node_modules/npm/node_modules/fstream/lib/proxy-reader.js",
-		"/R/FindMusikundervisning.dk/prototype/bootstrap/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-rootpath-options.js",
-		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/region-usage-json/PR.json",
-		"/R/FindMusikundervisning.dk/prototype/bootstrap/less/.csslintrc",
-		"/R/FindMusikundervisning.dk/prototype/bootstrap/node_modules/grunt-contrib-less/node_modules/less/.idea/codeStyleSettings.xml"
+		"/R/FindMusikundervisning.dk/prototype/profile.html"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -767,6 +777,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"span",
+			"portfolio",
+			"portfolio-modal",
+			"portfolio",
+			"portfoli",
+			"#team",
+			"team",
+			"#team",
+			".section-subheading",
+			"section h3.section-subheading",
+			"Services",
+			"services",
 			"location",
 			"instrument",
 			"<strong>Pris:</strong> 300kr for 60 min",
@@ -882,19 +904,7 @@
 			"15px",
 			"23px",
 			"top",
-			"	border-top-right-radius: 23px;\n",
-			"md",
-			"  ",
-			"studio",
-			"forty-five",
-			"  ",
-			"street",
-			"encode",
-			"text.",
-			"instrument",
-			"instruments",
-			"elt",
-			"tt-dataset"
+			"	border-top-right-radius: 23px;\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1038,8 +1048,46 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							],
+							[
+								261,
+								43
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -246,7 +246,7 @@ section {
 
 // Portfolio Section
 
-#portfolio {
+#portfolio, .portfolio-modal {
 	.portfolio-item {
 		/*margin: 0 0 15px;*/
 		right: 0;
@@ -741,6 +741,8 @@ body {
 	max-width: 250px;
 }
 
+
+
 #goals {
 	.goal {
 		right: 0;
@@ -898,4 +900,35 @@ body {
 		opacity: 0;
 		display: none;
 	}
+}
+
+.portfolio-modal .portfolio-caption {
+	background-color: #f7f7f7 !important;
+}
+
+.portfolio-modal .portfolio-products, .portfolio-materials {
+	margin-bottom: 30px;
+}
+
+
+.portfolio-modal .portfolio-item:first-child {
+	padding-right: 0px !important;
+}
+
+.portfolio-materials .portfolio-item {
+	min-height: 100% !important;
+}
+
+.portfolio-materials .portfolio-item .portfolio-link {
+	height: 320px;
+	width: 100%;
+}
+
+.portfolio-materials .portfolio-caption {
+	height: 210px;
+	width: 100%;
+}
+
+.portfolio-materials .portfolio-caption p {
+	padding-left: 10px;
 }

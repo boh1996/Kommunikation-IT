@@ -944,10 +944,12 @@ body {
 #portfolioModal2 .portfolio-products {
   margin-bottom: 20px;
 }
-#portfolioModal2 .portfolio-products .portfolio-caption {
-  height: 154px;
+#portfolioModal2 .portfolio-products .portfolio-caption,
+#portfolioModal4 .portfolio-products .portfolio-caption {
+  height: 154px !important;
 }
-#portfolioModal2 .portfolio-item .portfolio-link img {
-  height: 250px;
+#portfolioModal2 .portfolio-item .portfolio-link img,
+#portfolioModal4 .portfolio-item .portfolio-link img {
+  height: 250px !important;
 }
 /*# sourceMappingURL=agency.css.map */

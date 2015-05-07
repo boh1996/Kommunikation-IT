@@ -4,12 +4,48 @@
 		"selected_items":
 		[
 			[
+				"portfol",
+				"portfolio"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"portfolioMo",
+				"portfolioModal3"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
 				"pad",
-				"padding"
+				"padding-left"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"min",
+				"min-height"
 			],
 			[
 				"marg",
-				"margin-right"
+				"margin-bottom"
+			],
+			[
+				"back-",
+				"background-color"
+			],
+			[
+				"intr",
+				"introduction"
 			],
 			[
 				"tex",
@@ -18,10 +54,6 @@
 			[
 				"max",
 				"max-height"
-			],
-			[
-				"max-",
-				"max-width"
 			],
 			[
 				"sort",
@@ -141,10 +173,6 @@
 			],
 			[
 				"mit",
-				"minutes"
-			],
-			[
-				"min",
 				"minutes"
 			],
 			[
@@ -314,10 +342,6 @@
 			[
 				"this",
 				"thisRow"
-			],
-			[
-				"padd",
-				"padding"
 			],
 			[
 				"toke",
@@ -490,30 +514,6 @@
 			[
 				"new",
 				"news_model"
-			],
-			[
-				"pre",
-				"prev_link"
-			],
-			[
-				"next",
-				"next_link"
-			],
-			[
-				"page",
-				"page_count"
-			],
-			[
-				"page_",
-				"page_number"
-			],
-			[
-				"bu",
-				"button_text"
-			],
-			[
-				"mes",
-				"message"
 			]
 		]
 	},
@@ -523,7 +523,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 23585,
+				"buffer_size": 39462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/agency.less",
+			"settings":
+			{
+				"buffer_size": 16074,
 				"line_ending": "Unix"
 			}
 		}
@@ -614,11 +622,11 @@
 	"expanded_folders":
 	[
 		"/R/Kommunikation-IT",
-		"/R/Kommunikation-IT/js",
-		"/R/Kommunikation-IT/less"
+		"/R/Kommunikation-IT/js"
 	],
 	"file_history":
 	[
+		"/R/MiaArbejdsfordeling/memory.html",
 		"/R/Kommunikation-IT/less/agency.less",
 		"/R/Kommunikation-IT/less/variables.less",
 		"/R/Kommunikation-IT/font-awesome/less/icons.less",
@@ -745,8 +753,7 @@
 		"/R/FindMusikundervisning.dk/application/config/user_agents.php",
 		"/R/FindMusikundervisning.dk/prototype/bootstrap/docs/_data/sass-team.yml",
 		"/R/FindMusikundervisning.dk/prototype/messages.html",
-		"/R/FindMusikundervisning.dk/application/config/profiler.php",
-		"/R/FindMusikundervisning.dk/prototype/profile.html"
+		"/R/FindMusikundervisning.dk/application/config/profiler.php"
 	],
 	"find":
 	{
@@ -777,6 +784,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"md-4",
+			"col-md-offset-2",
+			"md-4",
+			"4",
+			"md",
+			" img",
+			" bg-light-gray",
+			".portfolio-modal",
+			"div",
 			"span",
 			"portfolio",
 			"portfolio-modal",
@@ -895,16 +911,7 @@
 			"rootwizard",
 			"50",
 			".about-person-container",
-			".75",
-			"  ",
-			"3",
-			"details-row",
-			" col-md-3",
-			"30px",
-			"15px",
-			"23px",
-			"top",
-			"	border-top-right-radius: 23px;\n"
+			".75"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1057,19 +1064,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23585,
+						"buffer_size": 39462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33,
-								33
-							],
-							[
-								261,
-								43
+								7747,
+								7747
 							]
 						],
 						"settings":
@@ -1078,14 +1081,46 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4002.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "less/agency.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16069,
+								16069
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 17120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

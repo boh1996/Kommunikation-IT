@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 39462,
+				"buffer_size": 39447,
 				"line_ending": "Unix"
 			}
 		},
@@ -784,6 +784,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"paradis-is",
 			"md-4",
 			"col-md-offset-2",
 			"md-4",
@@ -910,8 +911,7 @@
 			"Pris",
 			"rootwizard",
 			"50",
-			".about-person-container",
-			".75"
+			".about-person-container"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1064,15 +1064,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 39462,
+						"buffer_size": 39447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7747,
-								7747
+								24862,
+								24862
+							],
+							[
+								25632,
+								25632
+							],
+							[
+								26397,
+								26397
 							]
 						],
 						"settings":
@@ -1085,7 +1093,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4002.0,
+						"translation.y": 13104.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
